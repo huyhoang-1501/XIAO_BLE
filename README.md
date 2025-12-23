@@ -106,9 +106,15 @@ Paste the provided Arduino code
 Upload to the XIAO
 
 **Desktop App**:
-Bashpython xiao_led_control.py
+main.py
+![Desktop App](https://github.com/user-attachments/assets/10326016-9415-40f9-9406-9c5fc7e3b736)
 
 **Mobile App**:
 Go to https://ai2.appinventor.mit.edu
 Import the provided .aia file
 Build APK or test with AI Companion
+![Mobile App](https://github.com/user-attachments/assets/3c919ab3-a4ec-4b68-ad86-d7c65126f5a6)
+
+
+**Video**
+[![Video](https://github.com/user-attachments/assets/6712750b-a286-4dbc-aa67-a8f068c204b2)](https://www.youtube.com/watch?v=F5bMlRRfQIw)
